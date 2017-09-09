@@ -9,6 +9,9 @@
 
 #include <stdio.h>
 #include <tchar.h>
+#include <iostream>
+#include "SDL.h"
+#include <cmath>
 
 
 
